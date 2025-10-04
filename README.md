@@ -1,5 +1,10 @@
-## Hi there 👋
+## Benvingut a l'espai de Baltasar Salvà 👋
 
+Estic interessat en GIS i el tractament de dades corresponent. Principalment:<br/>
+  * QGIS<br/>
+  * desenvolupament de complements per a QGIS<br/>
+  * PostgreSQL<br/>
+  * PostGIS<br/>
 <!--
 **bsalva1969/bsalva1969** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
