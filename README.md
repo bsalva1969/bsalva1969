@@ -5,6 +5,9 @@ Estic interessat en GIS i el tractament de dades corresponent. Principalment:<br
   * desenvolupament de complements per a QGIS<br/>
   * PostgreSQL<br/>
   * PostGIS<br/>
+  <br/>
+  <br/>
+  Sempre a la vall de la desesperació.
 <!--
 **bsalva1969/bsalva1969** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
